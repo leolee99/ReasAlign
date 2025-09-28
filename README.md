@@ -38,4 +38,4 @@ The generated results file will be saved in ```results/```.
 
 **Note:** We have provided the results file reported in the paper here, which you can directly refer to.
 
-In the result file, ```judge_result=True``` indicates the injection instruction successfully attack the model. ```utility_result=True``` indicates the model successfully achieve user instruction.
+In the result file, ```judge_result=True``` indicates that the injection instruction successfully attacked the model, while ```utility_result=True``` indicates that the model successfully achieved the user instruction.
