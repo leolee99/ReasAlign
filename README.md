@@ -1,6 +1,6 @@
 # ReasAlign
 
-This is the repository for the paper ReasAlign: Reasoning Enhanced Safety Alignment against Prompt Injection Attack.
+This is the repository for the paper [ReasAlign: Reasoning Enhanced Safety Alignment against Prompt Injection Attack](https://arxiv.org/pdf/2601.10173).
 
 In this repository, we provide our fine-tuned models (including the defensive model and the logic judge model), the reproduction code, and the result files.
 
